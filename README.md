@@ -3,7 +3,9 @@ AI-driven health records for rural areas with offline-first access, SMS-based re
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# HYPOTHETICAL DATA SET  is used
+# AI-driven health records for rural areas with offline-first access, SMS-based retrieval, mental health insights & cost-effective treatment suggestions. Ensures secure, AI-powered healthcare anywhere—bridging gaps & saving lives.
+
+📌 Note: Due to technical issues, a hypothetical dataset is used.
 data = {
     'Country': ['Country A', 'Country B', 'Country C', 'Country D', 'Country E'],
     'Remote Area Population': [500000, 750000, 600000, 800000, 1000000],
