@@ -3,7 +3,7 @@ AI-driven health records for rural areas with offline-first access, SMS-based re
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Create the dataset
+# HYPOTHETICAL DATA SET  is used
 data = {
     'Country': ['Country A', 'Country B', 'Country C', 'Country D', 'Country E'],
     'Remote Area Population': [500000, 750000, 600000, 800000, 1000000],
